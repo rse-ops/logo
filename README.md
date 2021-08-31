@@ -29,7 +29,6 @@ hint at RADIUSS. For this first effort, I tried doing a compass using the
 same colors as the original logo:
 
 
-
 This could be improved I think, maybe with letters as the directions instead
 of lines? I created several variations.
 
