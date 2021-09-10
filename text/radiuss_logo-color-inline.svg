@@ -11,7 +11,7 @@
    data-name="Layer 1"
    viewBox="0 0 540 144"
    version="1.1"
-   sodipodi:docname="rse-radiuss-docker.svg"
+   sodipodi:docname="radiuss_logo-color-inline.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata75">
@@ -39,7 +39,7 @@
      id="namedview73"
      showgrid="false"
      inkscape:zoom="1.8175263"
-     inkscape:cx="269.4498"
+     inkscape:cx="270"
      inkscape:cy="72"
      inkscape:window-x="72"
      inkscape:window-y="1107"
@@ -153,9 +153,7 @@
   <g
      id="g70">
     <g
-       id="g38"
-       inkscape:export-xdpi="115.52917"
-       inkscape:export-ydpi="115.52917">
+       id="g38">
       <path
          class="cls-2"
          d="M222.71,49.48l0,8.46L197.34,58a1.74,1.74,0,0,0-1.72,1.73L195.69,95h-8.46l0-10.18-.05-25.07a10.17,10.17,0,0,1,10.17-10.21Z"
@@ -191,19 +189,12 @@
        id="path2098"
        cx="81.429352"
        cy="73.024406"
-       r="50.618248"
-       inkscape:export-xdpi="220.60001"
-       inkscape:export-ydpi="220.60001"
-       inkscape:export-filename="/home/vanessa/Desktop/Code/radiuss/logo/docker/radius-docker.png" />
-    <g
-       transform="matrix(0.17898323,0,0,0.17898323,36.435856,27.397791)"
-       id="g955"
-       style="fill:#da391e;fill-opacity:1">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 277,242.1 H 230.5 V 200.3 H 277 Z m 0,-143.6 h -46.5 v 42.7 H 277 Z m 55,101.8 H 285.5 V 242 H 332 Z M 222.1,149.6 h -46.5 v 42.3 h 46.5 z m 54.9,0 h -46.5 v 42.3 H 277 Z m 194.6,70.3 c -10.1,-6.8 -33.5,-9.3 -51.4,-5.9 -2.3,-16.9 -11.7,-31.6 -28.9,-44.8 l -9.8,-6.5 -6.5,9.8 c -12.9,19.5 -16.5,51.7 -2.6,73 -6.1,3.3 -18.1,7.8 -34,7.5 H 32.7 c -6.1,35.7 4.1,82.1 30.9,114 26.1,30.9 65.2,46.5 116.3,46.5 110.7,0 192.6,-51 230.9,-143.6 15,0.3 47.5,0.1 64.2,-31.8 1.1,-1.8 4.6,-9.3 6,-12 z M 112.3,200.3 H 65.9 V 242 h 46.5 z m 54.9,0 H 120.7 V 242 h 46.5 z m 54.9,0 H 175.6 V 242 h 46.5 z m -54.9,-50.7 h -46.5 v 42.3 h 46.5 z"
-         id="path953"
-         style="fill:#da391e;fill-opacity:1" />
-    </g>
+       r="50.618248" />
+    <path
+       inkscape:connector-curvature="0"
+       class="cls-2"
+       d="m 103.59598,53.565604 v 8.46 l -25.369997,0.06 a 1.74,1.74 0 0 0 -1.72,1.73 l 0.07,35.269996 h -8.46 V 88.905609 l -0.05,-25.070005 a 10.17,10.17 0 0 1 10.17,-10.21 z"
+       id="path24-9-1"
+       style="fill:#d53d1f;fill-opacity:1" />
   </g>
 </svg>
