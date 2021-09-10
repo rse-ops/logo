@@ -30,13 +30,10 @@ same colors as the original logo:
 
 
 This could be improved I think, maybe with letters as the directions instead
-of lines? I created several variations.
-
-![compass/rse-radiuss-border.png](compass/rse-radiuss-border.png)
+of lines? I created several variations in [compass](compass) and like this one the most:
 
 ![compass/rse-radiuss-pin.png](compass/rse-radiuss-pin.png)
 
-![compass/rse-radiuss.png](compass/rse-radiuss.png)
 
 ## Docker
 
