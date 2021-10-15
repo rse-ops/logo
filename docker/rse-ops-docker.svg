@@ -11,7 +11,7 @@
    data-name="Layer 1"
    viewBox="0 0 540 144"
    version="1.1"
-   sodipodi:docname="rse-radiuss-docker.svg"
+   sodipodi:docname="rse-ops-docker.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata75">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,16 +34,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1848"
-     inkscape:window-height="1016"
+     inkscape:window-width="1214"
+     inkscape:window-height="491"
      id="namedview73"
      showgrid="false"
      inkscape:zoom="1.8175263"
-     inkscape:cx="269.4498"
-     inkscape:cy="72"
-     inkscape:window-x="72"
-     inkscape:window-y="1107"
-     inkscape:window-maximized="1"
+     inkscape:cx="170.68919"
+     inkscape:cy="69.799207"
+     inkscape:window-x="170"
+     inkscape:window-y="483"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g70" />
   <defs
      id="defs22">
@@ -152,42 +152,8 @@
   </defs>
   <g
      id="g70">
-    <g
-       id="g38"
-       inkscape:export-xdpi="115.52917"
-       inkscape:export-ydpi="115.52917">
-      <path
-         class="cls-2"
-         d="M222.71,49.48l0,8.46L197.34,58a1.74,1.74,0,0,0-1.72,1.73L195.69,95h-8.46l0-10.18-.05-25.07a10.17,10.17,0,0,1,10.17-10.21Z"
-         id="path24"
-         style="fill:#d53d1f;fill-opacity:1" />
-      <path
-         class="cls-2"
-         d="M276.92,59.56,277,94.81l-36,.08a10.17,10.17,0,0,1-10.2-10.17l0-16.77,37.77-.07,0-8.31a1.74,1.74,0,0,0-1.73-1.72l-36,.07V49.46l36-.07A10.17,10.17,0,0,1,276.92,59.56Zm-8.43,16.78-29.3.06,0,8.3a1.73,1.73,0,0,0,1.72,1.72l27.58,0Z"
-         id="path26" />
-      <path
-         class="cls-2"
-         d="M331.82,34.38l.12,60.33-36,.07a10.18,10.18,0,0,1-10.21-10.17l-.05-25.07a10.18,10.18,0,0,1,10.17-10.21l27.58,0,0-14.89ZM321.74,86.26a1.73,1.73,0,0,0,1.72-1.72l0-25.07a1.75,1.75,0,0,0-1.73-1.73l-25.85.06a1.73,1.73,0,0,0-1.72,1.72l.05,25.08a1.73,1.73,0,0,0,1.72,1.72Z"
-         id="path28" />
-      <path
-         class="cls-2"
-         d="M350.25,34.34l0,8.46-8.46,0,0-8.46Zm-8.43,14.9h8.46l.09,45.44-8.46,0Z"
-         id="path30" />
-      <path
-         class="cls-2"
-         d="M406.13,49.12l.07,35.25A10.16,10.16,0,0,1,396,94.58l-25.86,0A10.16,10.16,0,0,1,360,84.46l-.07-35.25,8.46,0,.07,35.26a1.74,1.74,0,0,0,1.73,1.72l25.85,0a1.75,1.75,0,0,0,1.72-1.73l-.07-35.26Z"
-         id="path32" />
-      <path
-         class="cls-2"
-         d="M461.88,60.91l-8.47,0V59.21a1.73,1.73,0,0,0-1.73-1.72l-25.85,0a1.73,1.73,0,0,0-1.72,1.72v6.59a1.74,1.74,0,0,0,1.73,1.72l25.85-.06a10.17,10.17,0,0,1,10.21,10.17v6.58a10.17,10.17,0,0,1-10.16,10.21l-25.86,0a10.17,10.17,0,0,1-10.2-10.17V82.63l8.46,0v1.73a1.74,1.74,0,0,0,1.72,1.72l25.86,0a1.75,1.75,0,0,0,1.72-1.73V77.7A1.74,1.74,0,0,0,451.72,76l-25.86,0a10.17,10.17,0,0,1-10.2-10.17V59.28a10.16,10.16,0,0,1,10.16-10.2L451.67,49a10.17,10.17,0,0,1,10.2,10.17Z"
-         id="path34" />
-      <path
-         class="cls-2"
-         d="M517.45,60.8l-8.46,0V59.1a1.74,1.74,0,0,0-1.73-1.72l-25.86,0a1.73,1.73,0,0,0-1.72,1.72l0,6.59a1.73,1.73,0,0,0,1.72,1.72l25.86-.06a10.17,10.17,0,0,1,10.2,10.17l0,6.58a10.17,10.17,0,0,1-10.17,10.21l-25.85,0a10.17,10.17,0,0,1-10.21-10.17V82.52l8.46,0v1.73A1.74,1.74,0,0,0,481.46,86l25.85,0A1.74,1.74,0,0,0,509,84.17V77.59a1.74,1.74,0,0,0-1.73-1.72l-25.85,0a10.18,10.18,0,0,1-10.21-10.17V59.17A10.16,10.16,0,0,1,481.39,49l25.85-.06a10.17,10.17,0,0,1,10.21,10.17Z"
-         id="path36" />
-    </g>
     <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:#12202d;stroke-width:7.55905533;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#005dab;stroke-width:7.55905533;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path2098"
        cx="81.429352"
        cy="73.024406"
@@ -198,12 +164,14 @@
     <g
        transform="matrix(0.17898323,0,0,0.17898323,36.435856,27.397791)"
        id="g955"
-       style="fill:#da391e;fill-opacity:1">
+       style="fill:#741755;fill-opacity:1"
+       inkscape:export-xdpi="220.60001"
+       inkscape:export-ydpi="220.60001">
       <path
          inkscape:connector-curvature="0"
          d="M 277,242.1 H 230.5 V 200.3 H 277 Z m 0,-143.6 h -46.5 v 42.7 H 277 Z m 55,101.8 H 285.5 V 242 H 332 Z M 222.1,149.6 h -46.5 v 42.3 h 46.5 z m 54.9,0 h -46.5 v 42.3 H 277 Z m 194.6,70.3 c -10.1,-6.8 -33.5,-9.3 -51.4,-5.9 -2.3,-16.9 -11.7,-31.6 -28.9,-44.8 l -9.8,-6.5 -6.5,9.8 c -12.9,19.5 -16.5,51.7 -2.6,73 -6.1,3.3 -18.1,7.8 -34,7.5 H 32.7 c -6.1,35.7 4.1,82.1 30.9,114 26.1,30.9 65.2,46.5 116.3,46.5 110.7,0 192.6,-51 230.9,-143.6 15,0.3 47.5,0.1 64.2,-31.8 1.1,-1.8 4.6,-9.3 6,-12 z M 112.3,200.3 H 65.9 V 242 h 46.5 z m 54.9,0 H 120.7 V 242 h 46.5 z m 54.9,0 H 175.6 V 242 h 46.5 z m -54.9,-50.7 h -46.5 v 42.3 h 46.5 z"
          id="path953"
-         style="fill:#da391e;fill-opacity:1" />
+         style="fill:#741755;fill-opacity:1" />
     </g>
   </g>
 </svg>

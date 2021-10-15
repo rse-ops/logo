@@ -1,20 +1,28 @@
-# Radiuss Logo
-
-![text/radius-text.png](text/radius-text.png)
+# RSE-ops Logos
 
 [![License](https://img.shields.io/badge/License-MIT%203--Clause-blue.svg)](https://github.com/rse-radiuss/radius-docker/blob/main/LICENSE)
 
-This project is part of [RADIUSS](https://computing.llnl.gov/projects/radiuss), which
-has a focus on helping open source scientific projects use best practices for
-automation and development.
-
-This is a playground for creating different RADIUSS logos, and keeping
-track of source files.  We've taken the [original](original) logo and flattened
-it a bit to generate the contents of [text](text) that are used across this
-GitHub organization. For each separate project, we have a subfolder that
+This is a playground for creating different RSE-ops logos, and keeping
+track of source files.  For each separate project, we have a subfolder that
 includes a similarly styled icon for that project. Logos for projects
 can be browsed here, or seen across the project.
 
+
+## Design
+
+### Font
+
+The rse-ops projects logo uses the [Orbitron](https://fonts.google.com/specimen/Orbitron?preview.text=rse-ops&preview.text_type=custom&category=Sans+Serif,Display,Monospace) font, medium.
+The raw files are in [fonts](fonts) to install to your system. On Linux, you can
+usually click the ttf file and open with "Fonts" to install.
+
+### Colors
+
+The colors used in the project are:
+
+ - #741755 (RSE purple)
+ - #005dab (LLNL blue)
+ - white or gray (secondary)
 
 License
 -------
